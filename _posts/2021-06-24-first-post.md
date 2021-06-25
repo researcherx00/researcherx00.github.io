@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "New blog, who dis?"
 date: June 24, 2021
 description: We all need to crawl before we can walk.
