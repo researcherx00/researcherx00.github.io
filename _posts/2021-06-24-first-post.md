@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: post
+author: [Brian M.](https://www.linkedin.com/in/brian-manuel-b58987138/)
 type: post
 title: "New blog, who dis?"
 subtitle: "This is my first blog post. It may start out slow, but my goal is to complete all active boxes on HackTheBox."
