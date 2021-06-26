@@ -2,10 +2,10 @@
 layout: default
 type: post
 title: "New blog, who dis?"
+subtitle: "This is my first blog post. It may start out slow, but my goal is to complete all active boxes on HackTheBox."
 date: 2021-06-24
-description: We all need to crawl before we can walk.
 tags: [infosec, general, hacking, hackthebox]
-excerpt: This is my first blog post. It may start out slow, but my goal is to complete all active boxes on HackTheBox.
+excerpt: "This is my first blog post. It may start out slow, but my goal is to complete all active boxes on HackTheBox1."
 ---
 
 
