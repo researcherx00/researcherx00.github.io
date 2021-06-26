@@ -1,10 +1,13 @@
 ---
 layout: default
+type: post
 title: "New blog, who dis?"
-date: June 24, 2021
+date: 2021-06-24
 description: We all need to crawl before we can walk.
+preview: true
 tags: [infosec, general, hacking, hackthebox]
 ---
+
 
 This is my first blog post. It may start out slow, but my goal is to complete all active boxes on HackTheBox.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sodales est in volutpat viverra. Vivamus pretium quam tellus, eget ultrices lacus fringilla ut. In tincidunt commodo mi non aliquam. Cras id semper nunc. Nunc cursus at libero sed ultrices. Cras sit amet eros auctor, molestie neque et, aliquam elit. Pellentesque maximus ipsum velit, a ullamcorper quam gravida quis. Sed gravida elit a enim euismod aliquam.
