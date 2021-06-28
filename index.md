@@ -4,7 +4,10 @@ permalink: /
 permalink_name: /home
 title: how2hack
 
+detail_image: images/header.png
 ---
+
+
 
 # How2Hack
 
