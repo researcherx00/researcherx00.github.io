@@ -11,7 +11,7 @@ detail_image: images/header.png
 {% for post in site.posts %}
   <li>
     <a href="{% post.permalink %}">{% post.title %}</a>
-    <p>{{ post.excerpt }}</p>
+    <p>{{ post.content | strip_html | truncatewords:125 }}</p>
   </li>
 {% endfor %}
 </ul>
